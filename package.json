@@ -1,0 +1,16 @@
+{
+  "name": "nodebot-squadron",
+  "version": "0.0.1",
+  "description": "A client for a socket-run robot",
+  "main": "app-move-squadron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Blaurock and Adam Bankin",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.7.46",
+    "socket.io-client": "^1.0.2",
+    "spark-io": "^0.4.0"
+  }
+}
